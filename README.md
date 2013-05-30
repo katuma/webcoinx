@@ -8,7 +8,6 @@ webcoinx ready-to-hack distribution
 more intricate details
 ======================
 
-[blah](katuma/webcoinx)
 This is just quick and dirty to get people started. Actual code for browser code happens to live in
 [bitcoinjs-gui](https://github.com/katuma/bitcoinjs-gui) and [bitcoinjs-lib](https://github.com/katuma/bitcoinjs-lib),
 any upstream changed should be pull requested there.
